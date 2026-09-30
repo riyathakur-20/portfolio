@@ -103,14 +103,12 @@
             <span class="home__small">Hello</span>
           
             <h1 class="home__title">
-              <span>I'm</span> E.V.SAI GANESH <br/>
-              a <span class="highlight">Full Stack Developer</span>
+              <span>I'm</span> RIYA THAKUR <br/>
+              a <span class="highlight">LEARNING STUDENT</span>
             </h1>
           
             <p class="home__description">
-              Full Stack Developer specializing in scalable web applications, 
-              REST APIs, JWT authentication, RBAC, and high-performance systems. 
-              Experienced in building enterprise-level platforms serving 1000+ users.
+              An enthusiastic learner 
             </p>
           
             <div class="home__btns">
@@ -133,33 +131,30 @@
           </div>
           <div class="about__content">
             <h2 class="section__title" data-title="Who am I ?">
-              I'm E.V.Sai Ganesh, a Full Stack Developer
+              I'm RIYA THAKUR , an enthusiastc learner
             </h2>
             <p class="about__description">
-            Full Stack Developer with hands-on experience in building scalable platforms, 
-            secure APIs, and high-performance systems. Skilled in Next.js, Node.js, MongoDB, 
-            Redis caching, and AWS deployments. Passionate about solving real-world problems 
-            through efficient system design.
-            </p>
+            Programing language learner with no prior experience in building scalable platforms, 
+            secure APIs, and high-performance systems.Learnig Skills like python, c, c++, html, react             </p>
             <ul class="about__data grid">
               <li class="data__item">
                 <h3 class="data__title">Name:</h3>
-                <span class="data__description">Eduru Venkata Sai Ganesh</span>
+                <span class="data__description">Riya Thakur </span>
               </li>
 
               <li class="data__item">
                 <h3 class="data__title">Age:</h3>
-                <span class="data__description">24 Years</span>
+                <span class="data__description">19 Years</span>
               </li>
 
               <li class="data__item">
                 <h3 class="data__title">From</h3>
-                <span class="data__description">Hyderabad, INDIA</span>
+                <span class="data__description">New Delhi, INDIA</span>
               </li>
 
               <li class="data__item">
                 <h3 class="data__title">Email</h3>
-                <a href="mailto:iamevsaiganesh@gmail.com" class="data__description about__link">iamevsaiganesh@gmail.com</a>
+                <a href="riya.thakur1785@gmail.com" class="data__description about__link">riya.thakur1785@gmail.com</a>
               </li>
             </ul>
 
@@ -167,7 +162,7 @@
               <a href="assets/pdf/E.V.SaiGanesh -Resume.pdf" class="btn">Download CV</a>
 
               <div class="about__social-links">
-                <a href="https://github.com/saiganesh113" class="about__social-link">
+                <a href="https://github.com/riyathakur-20" class="about__social-link">
                   <i class="fa-brands fa-github"></i>
                 </a>
 
@@ -175,10 +170,7 @@
                   <i class="fa-brands fa-instagram"></i>
                 </a>
 
-                <a href="https://www.facebook.com/Itz.me.E.V.S.Ganesh?mibextid=D4KYlr" class="about__social-link">
-                  <i class="fa-brands fa-square-facebook"></i>
-                </a>
-
+              
                 <a href="https://www.linkedin.com/in/eduru-venkata-sai-ganesh/" class="about__social-link">
                   <i class="fa-brands fa-linkedin"></i>
                 </a>
